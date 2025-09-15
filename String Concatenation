@@ -1,0 +1,5 @@
+#concatenation
+a=input("ENTER THE FIRST NAME")
+b=input("ENTER THE SECOND NAME")
+c=a +" "+ b
+print("FULL NAME IS ",c)
