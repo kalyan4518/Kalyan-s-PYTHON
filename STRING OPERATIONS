@@ -1,0 +1,11 @@
+#input= kalyan venkat
+
+a=input("enter a string")
+b=input("enter your second name")
+str=a+" "+b  #concatenation
+print(str) 
+print(len(str)) #length
+print(str[1:len(str)]) #charecters starting index and ending index-1
+print(str.find("kal")) #finding 
+print(str.replace("venkat","prabhas"))#replace
+
